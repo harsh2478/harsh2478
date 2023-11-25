@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there 👋
+My name is Harsh Gupta
 
-<!--
-**harsh2478/harsh2478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Technical Bio:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭Tech Engineering Student
+- Enthusiastic about Technology and DevOps
+- 🌱Actively learning Linux (RHEL), AWS, Kubernetes, Docker, Ansible, C/C++, Machine Learning
+- Proficient in Python
+- 👯Eager to contribute and learn in the dynamic world of DevOps
+
+Soft Skills:
+
+- Adaptability: Embracing new technologies and concepts.
+- Curiosity🤔: A constant desire to explore and understand emerging trends.
+- Collaboration👯: Enjoy working with peers to achieve common goals.
+- Problem-Solving⚡: Proactively finding solutions to challenges.
+- Communication😄: Effectively conveying ideas and seeking feedback.
+
+
+
