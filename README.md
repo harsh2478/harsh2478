@@ -59,4 +59,4 @@
 ## 📫 Connect with me  
 - 💬 Ask me about **Cloud & DevOps**  
 - 📧 How to reach me: **harsh.hg2005@gmail.com**  
-- 🎥 Fun fact: I love exploring and sharing tech insights through my Blogs! <img src="https://www.vectorlogo.zone/logos/medium/medium-ar21~bgwhite.svg" alt="medium" title="medium" width="80" height="80"/>
+- 🎥 Fun fact: I love exploring and sharing tech insights through my Blogs! <img src="https://www.vectorlogo.zone/logos/medium/medium-ar21~bgwhite.svg" alt="medium" title="medium" width="60" height="60"/>
