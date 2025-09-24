@@ -7,7 +7,8 @@
 <img align="right" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 
-## 🔧 Languages and Tools  
+<!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 - 🔭 I work on **DevOps, Cloud, Containers, IaC, and everything around it**  
 - 🌱 I’m looking to collaborate on **Cloud-Native & Automation Projects**  
