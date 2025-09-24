@@ -3,6 +3,9 @@
 
 <h4 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/harsh-gupta05/" target="_blank" rel="noreferrer">Harsh</a> is a passionate and results-driven **DevOps & Cloud Engineer** with solid expertise in automation, cloud infrastructure, and modern DevOps practices. With hands-on experience in a wide range of tools and technologies, he strive to bridge the gap between development and operations, enabling efficient, secure, and scalable software delivery.</font></h4>
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+
 
 ## 🔧 Languages and Tools  
 
