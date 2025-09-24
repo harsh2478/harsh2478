@@ -12,63 +12,49 @@ I am a passionate and results-driven **DevOps & Cloud Engineer** with solid expe
 ---
 
 ### 🖥️ Programming Language Stack  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="java" title="cpp" width="40" height="40"/>    
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="java" title="cpp" width="40" height="40"/> </p>
 
 ---
 
 ### 🖥️ OS Stack  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)  
+<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p> 
 
 ---
 
 ### ☁️ Cloud Platform  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)  
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" title="aws" width="40" height="40"/></p>
 
 ---
 
 ### 🛠️ DevOps & Infrastructure Stack  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)  
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)  
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  
-![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?logo=redhatopenshift&logoColor=white)  
-![AWS EKS](https://img.shields.io/badge/-AWS%20EKS-FF9900?logo=amazon-aws&logoColor=white)  
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)  
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes" title="kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker-compose/docker-compose.png" alt="docker-compose" title="docker-compose" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jenkins/jenkins.png" alt="jenkins" title="jenkins" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gitlab/gitlab.png" alt="gitlab" title="gitlab" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="eks" title="eks" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg" alt="kafka" title="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21~bgwhite.svg" alt="istio" title="istio" width="40" height="40"/></p>
+ 
 ![Microservices](https://img.shields.io/badge/-Microservices-00897B?logo=microgenetics&logoColor=white)    
-![Istio](https://img.shields.io/badge/-Istio-466BB0?logo=istio&logoColor=white)  
 
 ---
 
 ### 📊 Monitoring & Logging  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
+<p align="left"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21~bgwhite.svg" alt="splunk" title="splunk" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21~bgwhite.svg" alt="prometheus" title="prometheus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21~bgwhite.svg" alt="grafana" title="grafana" width="40" height="40"/></p>
 
 ---
 
 ### 🔄 GitOps  
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-FD7E14?logo=argo&logoColor=white)  
+<p align="left"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21~bgwhite.svg" alt="argocd" title="argocd" width="40" height="40"/> </p>
 
 ---
 
 ### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" title="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/> </p>  
 
 ---
 
 ### 📂 Project Management & Collaboration  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="argocd" title="argocd" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="github" title="github" width="40" height="40"/> </p> 
 
 ---
 
 ### 🖊️ Editors / IDEs I ❤  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 ---
 
