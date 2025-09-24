@@ -39,7 +39,7 @@ I am a passionate and results-driven **DevOps & Cloud Engineer** with solid expe
 ---
 
 ### 🔄 GitOps  
-<p align="left"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21~bgwhite.svg" alt="argocd" title="argocd" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21~bgwhite.svg" alt="argocd" title="argocd" width="80" height="80"/> </p>
 
 ---
 
