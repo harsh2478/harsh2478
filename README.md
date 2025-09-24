@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Harsh Gupta ☁️🚀</font></h1>  
 
-<h4 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/harsh-gupta05/" target="_blank" rel="noreferrer">Harsh</a> is a passionate and results-driven **DevOps & Cloud Engineer** with solid expertise in automation, cloud infrastructure, and modern DevOps practices. With hands-on experience in a wide range of tools and technologies, I strive to bridge the gap between development and operations, enabling efficient, secure, and scalable software delivery.</font></h4>
+<h4 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/harsh-gupta05/" target="_blank" rel="noreferrer">Harsh</a> is a passionate and results-driven **DevOps & Cloud Engineer** with solid expertise in automation, cloud infrastructure, and modern DevOps practices. With hands-on experience in a wide range of tools and technologies, he strive to bridge the gap between development and operations, enabling efficient, secure, and scalable software delivery.</font></h4>
 
 ---
 
